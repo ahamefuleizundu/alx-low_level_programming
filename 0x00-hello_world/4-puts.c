@@ -3,7 +3,7 @@
  * main - Program that executes a line using the Put function
  * return:0(valid)
  */
-int main(void)
+int main(Program that executes a line using the Put function)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
