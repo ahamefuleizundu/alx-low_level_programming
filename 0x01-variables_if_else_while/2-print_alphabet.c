@@ -5,11 +5,11 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Prints the alphabet in lowercase.
+ * main - Prints the alphabet in lowercase
  *
- * Return: 0 if successful, otherwsie non 0.
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char letter;
