@@ -3,10 +3,11 @@
 /**
  * main - program that prints alphabets in lower case
  *
- * Return: 0 always
+ * Return: void
  */
 
-int void print_alphabet(void)
+void print_alphabet(void)
+
 {
 	char c;
 
